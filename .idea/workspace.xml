@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6dc4754-9a7d-414c-b094-836a38b447d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/cup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/ballon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/copa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/cr7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/epl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/fifa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/kick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/ref.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/team.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/time.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashcards/src/flashcards.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/src/App.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MONNK-CODE&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/MONNK-CODE/Project2-Flashcards.git&quot;,
+    &quot;accountId&quot;: &quot;c66f5fc2-cc4b-45c0-9e17-f8d3e4b4dfd1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -24,21 +50,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "ignore_missing_gitignore": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +80,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741407870428</updated>
-      <workItem from="1741407871501" duration="3729000" />
+      <workItem from="1741407871501" duration="5338000" />
     </task>
     <servers />
   </component>

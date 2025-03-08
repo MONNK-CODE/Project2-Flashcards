@@ -4,7 +4,7 @@ Submitted by: **Muhais Olatundun**
 
 This web app: **The Soccer Trivia Flashcards Web App lets users test their soccer knowledge with interactive flashcards. Users click to flip cards and reveal answers, and can randomly navigate through trivia. Future updates will include custom flashcards and categories. Perfect for soccer fans to learn and have fun!**
 
-Time spent: **7** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -14,13 +14,13 @@ The following **required** functionality is completed:
 - [X] **A single card at a time is displayed, only showing one of the components of the information pair**
 - [x] **A list of card pairs is created**
 - [X] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- [X] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
-- [ ] Cards contains images in addition to or in place of text
-- [ ] Cards have different visual styles such as color based on their category
-    - [ ] *visual style implemented*
+- [X] Cards contains images in addition to or in place of text
+- [X] Cards have different visual styles such as color based on their category
+    - [X] *visual style implemented*
 
 The following **additional** features are implemented:
 
@@ -30,10 +30,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='soccer.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
+GIF created with https://ezgif.com/
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows

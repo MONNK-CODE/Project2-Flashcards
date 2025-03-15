@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6dc4754-9a7d-414c-b094-836a38b447d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/ballon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/copa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/cr7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/epl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/fifa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/goal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/kick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/ref.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/team.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/assets/time.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flashcards/src/flashcards.js" afterDir="false" />
+    <list default="true" id="c6dc4754-9a7d-414c-b094-836a38b447d1" name="Changes" comment="Completed Project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flashcards/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flashcards/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flashcards/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/flashcards/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashcards/src/sb.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +45,7 @@
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mon/WebstormProjects/Project2-Flashcards/flashcards&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,6 +55,15 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flashcards" />
+      <recent name="$PROJECT_DIR$/flashcards/src/assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flashcards/src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,11 +79,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741407870428</updated>
-      <workItem from="1741407871501" duration="5338000" />
+      <workItem from="1741407871501" duration="7907000" />
+      <workItem from="1741459575153" duration="9000" />
+      <workItem from="1742010180412" duration="989000" />
     </task>
+    <task id="LOCAL-00001" summary="Completed Project">
+      <option name="closed" value="true" />
+      <created>1741414381002</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741414381002</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Project" />
   </component>
 </project>
